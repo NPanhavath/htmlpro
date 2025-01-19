@@ -1,0 +1,43 @@
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  width: 150px;
+  height: 140px;
+  display: block;
+}
+
+.social-pf {
+  display: inline-block;
+  border: none;
+  box-shadow: 0px 0px 5px gray;
+  margin-right: 10px;
+}
+
+.for-padding {
+  padding-left: 8px;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.des {
+  margin-top: -14px;
+  font-size: 12px;
+  color: gray;
+}
+
+.add-friend {
+  color: white;
+  background-color: rgba(14, 58, 179, 0.775);
+  border: none;
+  border-radius: 5px;
+  height: 35px;
+  width: 90px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+
+
